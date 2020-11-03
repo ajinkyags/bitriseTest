@@ -1,0 +1,13 @@
+#
+# Copyright (C) 2020 Signal Messenger, LLC.
+# All rights reserved.
+#
+# SPDX-License-Identifier: GPL-3.0-only
+#
+
+solutions = [
+  { "name"        : "src",
+    "url"         : "https://github.com/signalapp/webrtc.git",
+    "deps_file"   : "DEPS",
+  },
+]

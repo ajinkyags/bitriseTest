@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Signal використовує Apple Music щоб програвати медіа вкладення.";
+NSCameraUsageDescription = "Signal використовує камеру, щоб робити фотографії та здійснювати відеодзвінки.";
+NSContactsUsageDescription = "Signal використовує ваші контакти, щоб знаходити користувачів, яких ви знаєте. Ми не зберігаємо ці контакти на сервері.";
+NSFaceIDUsageDescription = "Блокувальник екрану Signal використовує Face ID.";
+NSLocationWhenInUseUsageDescription = "Signal потребує доступу до служб локації, щоб можна було ділитись вашим місцезнаходженням.";
+NSMicrophoneUsageDescription = "Signal потребує доступу до мікрофону, щоб здійснювати та отримувати дзвінки та записувати голосові повідомлення.";
+NSPhotoLibraryAddUsageDescription = "Signal зберігатиме файли до Фотографій.";
+NSPhotoLibraryUsageDescription = "Signal дозволить обрати ті фотографії, які ви бажаєте відправити.";
+NSLocalNetworkUsageDescription = "Signal uses the local network to allow you to directly transfer your account to a new phone. It will not be used unless you explicitly choose to initiate a transfer to a new device.";

@@ -1,0 +1,23 @@
+PODS:
+  - ZXingObjC (3.6.5):
+    - ZXingObjC/All (= 3.6.5)
+  - ZXingObjC/All (3.6.5)
+
+DEPENDENCIES:
+  - ZXingObjC (from `https://github.com/zxingify/zxingify-objc.git`)
+
+EXTERNAL SOURCES:
+  ZXingObjC:
+    :git: https://github.com/zxingify/zxingify-objc.git
+
+CHECKOUT OPTIONS:
+  ZXingObjC:
+    :commit: fce3786177fd7032c62b230df8beeb206722d38e
+    :git: https://github.com/zxingify/zxingify-objc.git
+
+SPEC CHECKSUMS:
+  ZXingObjC: fdbb269f25dd2032da343e06f10224d62f537bdb
+
+PODFILE CHECKSUM: aee531f90f17a446c5836916f46148234f36d696
+
+COCOAPODS: 1.9.2
