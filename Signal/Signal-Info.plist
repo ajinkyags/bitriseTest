@@ -7,7 +7,7 @@
 		<key>OSXVersion</key>
 		<string>10.15.6</string>
 		<key>WebRTCCommit</key>
-		<string>b6ce223ca409095815292f6efae11543bc013aef Production build of v2.7.3</string>
+		<string></string>
 	</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
